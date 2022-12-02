@@ -2,13 +2,13 @@
 
 
 1. Open your terminal and then type the following to clone the repo
-$ git clone {the url to the GitHub repo}
+##### $ git clone {the url to the GitHub repo}
 
 2. cd into the new folder and type to install the dependencies.
-$ npm install
+##### $ npm install
 
 3. To run the React project. 
-$ npm start
+##### $ npm start
 
 4. Hover on the + (plus icon) in the sidebar and click on the 'Add filter' text.
 Select a tag from the dropdown.
