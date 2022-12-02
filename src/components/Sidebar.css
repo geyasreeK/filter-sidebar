@@ -1,0 +1,134 @@
+.sidebar {
+  width: 19%;
+  border-right: 1px solid #e0e0e0;
+  position: relative;
+}
+.sidebar-container {
+  padding: 24px;
+}
+
+.sidebar-heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar-heading-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #2e3840;
+}
+
+.add-filter-container {
+  display: flex;
+}
+
+.show-add-filter {
+  display: flex;
+  align-items: center;
+  background: #f6f6f6;
+  border-radius: 4px;
+  width: 88px;
+  height: 32px;
+  padding: 0 4px;
+  margin-top: -10px;
+}
+
+.plus-icon{
+  margin-top: 4px;
+}
+
+.add-filter-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #303440;
+  /* margin-bottom: 4px; */
+}
+
+.group-icon {
+  margin: 12px 0px 0px 25px;
+}
+
+.add-filter {
+  padding: 30px 0 60px 0;
+}
+
+.tutorial-text {
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  color: #667c8c;
+  margin-bottom: 2px;
+  margin-left: 5.5px;
+}
+
+.arrow-icon {
+  position: absolute;
+  top: 60px;
+  right: 90px;
+}
+
+.no-filter-text {
+  margin: 60px 0px 0px 70px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  color: #667c8c;
+}
+
+.apply-filter-text {
+  margin: 12px 0px 0px 50px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  color: #667c8c;
+}
+
+.add-filter-tutorial {
+  display: flex;
+  margin: 100px 0px 310px 55px;
+}
+
+
+.sidebar-footer {
+  border-top: 1px solid #e0e0e0;
+  display: flex;
+  position: absolute;
+  bottom: 0px;
+}
+
+.sidebar-footer-cont {
+  width: 275px;
+  height: 215px;
+  border-right: 1px solid #e0e0e0;
+  display: flex;
+  justify-content: center;
+}
+
+.save-icon-text{
+  display: flex;  
+  margin-top: 12px;
+}
+
+.save-text{
+  margin-left: 8px;
+  font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+color: #303440;
+}
+
+.sidebar-footer-icon {
+  width: 10%;
+  padding: 10px 0px 0 8px;
+}
