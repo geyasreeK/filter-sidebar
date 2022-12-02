@@ -19,7 +19,7 @@ Select a tag from the dropdown.
  
 7. If different labels are selected, then the filter is OR filter.
 
-###Structure of the app: 
+### Structure of the app: 
 
 the app is structured into five folders 
 1. app - which contains the global store
@@ -28,12 +28,12 @@ the app is structured into five folders
 4. shared - files that are commonly shared among components
 5. svgs - the svgs used in the app
 
-###Global state: 
+### Global state: 
 states which are used interchangeably across the components are only included in the global state
 
-###Additional features:
+### Additional features:
 
-#####Restriction on the addition of filters:
+##### Restriction on the addition of filters:
 1. restriction of selecting a tag without selecting the label
 2. restriction of applying filter without setting value
 3. restriction of selecting the same value when the label and tag are the same
